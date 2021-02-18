@@ -1,0 +1,122 @@
+[
+    {
+       "name":"Mark Rutte",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Hugo de Jonge",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Kajsa Ollongren",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Carola Schouten",
+       "party":"CU",
+       "gender":"V"
+    },
+    {
+       "name":"Stef Blok",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Ferdinand Grapperhaus",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Ingrid van Engelshoven",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Wopke Hoekstra",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Ank Bijleveld",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Cora van Nieuwenhuizen",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Bas van 't Wout",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Wouter Koolmees",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Sigrid Kaag",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Sander Dekker",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Arie Slob",
+       "party":"CU",
+       "gender":"M"
+    },
+    {
+       "name":"Tamara van Ark",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Stientje van Veldhoven",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Ankie Broekers-Knol",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Raymond Knops",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Hans Vijlbrief",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Alexandra van Huffelen",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Barbara Visser",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Mona Keijzer",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Paul Blokhuis",
+       "party":"CU",
+       "gender":"M"
+    }
+ ]

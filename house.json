@@ -1,0 +1,747 @@
+[
+    {
+       "name":"Roy van Aalst",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Thierry Aartsen",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Fleur Agema",
+       "party":"PVV",
+       "gender":"V"
+    },
+    {
+       "name":"Mahir Alkaya",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Mustafa Amhaouch",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Gerard van den Anker",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Khadija Arib",
+       "party":"PvdA",
+       "gender":"V"
+    },
+    {
+       "name":"Lodewijk Asscher",
+       "party":"PvdA",
+       "gender":"M"
+    },
+    {
+       "name":"Farid Azarkan",
+       "party":"DENK",
+       "gender":"M"
+    },
+    {
+       "name":"Thierry Baudet",
+       "party":"FVD",
+       "gender":"M"
+    },
+    {
+       "name":"Bente Becker",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Sandra Beckerman",
+       "party":"SP",
+       "gender":"V"
+    },
+    {
+       "name":"Harm Beertema",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Salima Belhaj",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Joba van den Berg",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Niels van den Berge",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Vera Bergkamp",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Marijke van Beukering-Huijbregts",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Roelof Bisschop",
+       "party":"SGP",
+       "gender":"M"
+    },
+    {
+       "name":"Martijn Bolkestein",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Albert van den Bosch",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Martin Bosma",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"André Bosman",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Achraf Bouali",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Corrie van Brenk",
+       "party":"50PLUS",
+       "gender":"V"
+    },
+    {
+       "name":"Laura Bromet",
+       "party":"GL",
+       "gender":"V"
+    },
+    {
+       "name":"Eppo Bruins",
+       "party":"CU",
+       "gender":"M"
+    },
+    {
+       "name":"Kathalijne Buitenweg",
+       "party":"GL",
+       "gender":"V"
+    },
+    {
+       "name":"Chris van Dam",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Antje Diertens",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Tony van Dijck",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Emiel van Dijk",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Gijs van Dijk",
+       "party":"PvdA",
+       "gender":"M"
+    },
+    {
+       "name":"Jasper van Dijk",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Klaas Dijkhoff",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Pia Dijkstra",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Remco Dijkstra",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Carla Dik-Faber",
+       "party":"CU",
+       "gender":"V"
+    },
+    {
+       "name":"Jessica van Eijs",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Zohair El Yassini",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Corinne Ellemeet",
+       "party":"GL",
+       "gender":"V"
+    },
+    {
+       "name":"Eva van Esch",
+       "party":"PvdD",
+       "gender":"V"
+    },
+    {
+       "name":"Sietse Fritsma",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Frank Futselaar",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Lenny Geluk-Poortvliet",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Tobias van Gent",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Henk van Gerven",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Jaco Geurts",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Machiel de Graaf",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Stieneke van der Graaf",
+       "party":"CU",
+       "gender":"V"
+    },
+    {
+       "name":"Dion Graus",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Tjeerd de Groot",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Maarten Groothuizen",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Wybren van Haga",
+       "party":"FVD",
+       "gender":"M"
+    },
+    {
+       "name":"Mark Harbers",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Rudmer Heerema",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Pieter Heerma",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Lilian Helder",
+       "party":"PVV",
+       "gender":"V"
+    },
+    {
+       "name":"Martijn van Helvert",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Sophie Hermans",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Maarten Hijink",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Kirsten van den Hul",
+       "party":"PvdA",
+       "gender":"V"
+    },
+    {
+       "name":"Chris Jansen",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Rob Jetten",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Léon de Jong",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Sadet Karabulut",
+       "party":"SP",
+       "gender":"V"
+    },
+    {
+       "name":"Bart van Kent",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"John Kerstens",
+       "party":"PvdA",
+       "gender":"M"
+    },
+    {
+       "name":"Jesse Klaver",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Daniel Koerhuis",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Sven Koopmans",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Femke Merel van Kooten-Arissen",
+       "party":"vKA",
+       "gender":"V"
+    },
+    {
+       "name":"Alexander Kops",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Suzanne Kröger",
+       "party":"GL",
+       "gender":"V"
+    },
+    {
+       "name":"Henk Krol",
+       "party":"Krol",
+       "gender":"M"
+    },
+    {
+       "name":"Anne Kuik",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Attje Kuiken",
+       "party":"PvdA",
+       "gender":"V"
+    },
+    {
+       "name":"Tunahan Kuzu",
+       "party":"DENK",
+       "gender":"M"
+    },
+    {
+       "name":"Peter Kwint",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Antoinette Laan-Geselschap",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Cem Laçin",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Tom van der Lee",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Renske Leijten",
+       "party":"SP",
+       "gender":"V"
+    },
+    {
+       "name":"Roald van der Linde",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Helma Lodders",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Barry Madlener",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Lilian Marijnissen",
+       "party":"SP",
+       "gender":"V"
+    },
+    {
+       "name":"Gidi Markuszower",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Maurits von Martels",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Paul van Meenen",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Jan Middendorp",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Harry van der Molen",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"William Moorlag",
+       "party":"PvdA",
+       "gender":"M"
+    },
+    {
+       "name":"Agnes Mulder",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Edgar Mulder",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Tom van den  Nieuwenhuijzen",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Henk Nijboer",
+       "party":"PvdA",
+       "gender":"M"
+    },
+    {
+       "name":"Chantal Nijkerken-de Haan",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Michiel van Nispen",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Bram van Ojik",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Pieter Omtzigt",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Gerrit Jan van Otterloo",
+       "party":"50PLUS",
+       "gender":"M"
+    },
+    {
+       "name":"Esther Ouwehand",
+       "party":"PvdD",
+       "gender":"V"
+    },
+    {
+       "name":"Selçuk Öztürk",
+       "party":"DENK",
+       "gender":"M"
+    },
+    {
+       "name":"Nevin Özütok",
+       "party":"GL",
+       "gender":"V"
+    },
+    {
+       "name":"Hilde Palland",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Jan Paternotte",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"René Peters",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Lilianne Ploumen",
+       "party":"PvdA",
+       "gender":"V"
+    },
+    {
+       "name":"Wytske Postma",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Ronald van Raak",
+       "party":"SP",
+       "gender":"M"
+    },
+    {
+       "name":"Lammert van Raan",
+       "party":"PvdD",
+       "gender":"M"
+    },
+    {
+       "name":"Rens Raemakers",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Kelly Regterschot",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Wim-Jan Renkema",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Raymond de Roon",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Léonie Sazias",
+       "party":"50PLUS",
+       "gender":"M"
+    },
+    {
+       "name":"Rutger Schonis",
+       "party":"D66",
+       "gender":"V"
+    },
+    {
+       "name":"Gert-Jan Segers",
+       "party":"CU",
+       "gender":"M"
+    },
+    {
+       "name":"Matthijs Sienot",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Sjoerd Sjoerdsma",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Evert Jan Slootweg",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Bart Smals",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Paul Smeulders",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Joost Sneller",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Bart Snels",
+       "party":"GL",
+       "gender":"M"
+    },
+    {
+       "name":"Mark Snoeren",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Kees van der Staaij",
+       "party":"SGP",
+       "gender":"M"
+    },
+    {
+       "name":"Chris Stoffer",
+       "party":"SGP",
+       "gender":"M"
+    },
+    {
+       "name":"Ockje Tellegen",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Julius Terpstra",
+       "party":"CDA",
+       "gender":"M"
+    },
+    {
+       "name":"Judith Tielen",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Madeleine van Toorenburg",
+       "party":"CDA",
+       "gender":"V"
+    },
+    {
+       "name":"Hayke Veldman",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Kees Verhoeven",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Joël Voordewind",
+       "party":"CU",
+       "gender":"M"
+    },
+    {
+       "name":"Henk de Vree",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Aukje de Vries",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Frank Wassenberg",
+       "party":"PvdD",
+       "gender":"M"
+    },
+    {
+       "name":"Danai van Weerdenburg",
+       "party":"PVV",
+       "gender":"V"
+    },
+    {
+       "name":"Lisa Westerveld",
+       "party":"GL",
+       "gender":"V"
+    },
+    {
+       "name":"Arne Weverling",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Steven van Weyenberg",
+       "party":"D66",
+       "gender":"M"
+    },
+    {
+       "name":"Dennis Wiersma",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Jeroen van Wijngaarden",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Geert Wilders",
+       "party":"PVV",
+       "gender":"M"
+    },
+    {
+       "name":"Martin Wörsdörfer",
+       "party":"VVD",
+       "gender":"M"
+    },
+    {
+       "name":"Dilan Yeşilgöz-Zegerius",
+       "party":"VVD",
+       "gender":"V"
+    },
+    {
+       "name":"Erik Ziengs",
+       "party":"VVD",
+       "gender":"M"
+    }
+ ]
