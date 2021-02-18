@@ -6,7 +6,7 @@
     },
     {
       "name": "Geert Wilders",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "name": "Sibel Özen-Özoğul",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -121,12 +121,12 @@
     },
     {
       "name": "Laszlo van de Voorde",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Nico Drost",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "name": "Alwin te Rietstap",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "name": "Wouter Struijk",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "name": "Eric Corton",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "name": "Tom van den Nieuwenhuijzen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "name": "Emiel van Dijk",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "Chatilla van Grinsven",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "name": "Michiel van Nispen",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
       "name": "Mariska ten Heuw",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -346,12 +346,12 @@
     },
     {
       "name": "Arie Rijneveld",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Maarten van Heuven",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -366,7 +366,7 @@
     },
     {
       "name": "Emile Roemer",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -376,12 +376,12 @@
     },
     {
       "name": "Lenny Roelofs",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Trees Janssens",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -396,7 +396,7 @@
     },
     {
       "name": "Léon de Jong",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -431,12 +431,12 @@
     },
     {
       "name": "Peter Noordergraaf",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": " Chevalier",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -446,7 +446,7 @@
     },
     {
       "name": "Geert Schipaanboord",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -486,12 +486,12 @@
     },
     {
       "name": "Efraïm Hart",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Mikal Tseggai",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -501,12 +501,12 @@
     },
     {
       "name": "Marinka Mulder",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Roelie Goettsch",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -521,7 +521,7 @@
     },
     {
       "name": " Koopmans-van der Veen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "name": "Maroeska Veldkamp-Magré",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -606,7 +606,7 @@
     },
     {
       "name": "Eppo Bruins",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -636,17 +636,17 @@
     },
     {
       "name": "Eric van den Broek",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Pieter Grinwis",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Thomas van Halm",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -676,17 +676,17 @@
     },
     {
       "name": "Fenna Feenstra",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Henk Stoorvogel",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Esther Ouwehand",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -696,7 +696,7 @@
     },
     {
       "name": "Edgar Mulder",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -716,7 +716,7 @@
     },
     {
       "name": " van der Velden",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "name": "Anja Goossens",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "name": "Frank Wassenberg",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -761,7 +761,7 @@
     },
     {
       "name": "Chris Maas",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -831,7 +831,7 @@
     },
     {
       "name": "Nina de Ridder",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -861,7 +861,7 @@
     },
     {
       "name": "Maarten van den Bos",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -871,17 +871,17 @@
     },
     {
       "name": "Nathanaël Middelkoop",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Anouk Gielen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Sjoerd Feitsma",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -906,7 +906,7 @@
     },
     {
       "name": "Loes Ypma",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -916,12 +916,12 @@
     },
     {
       "name": "Gerrie Elfrink",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Jan Broekema",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -936,7 +936,7 @@
     },
     {
       "name": "Hans Boerwinkel",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -961,12 +961,12 @@
     },
     {
       "name": "René Claassen",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Tessa Dulfer",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "Barry Madlener",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -1056,7 +1056,7 @@
     },
     {
       "name": " Verstegen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -1116,7 +1116,7 @@
     },
     {
       "name": " van Meijeren",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "name": "Machiel de Graaf",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -1156,7 +1156,7 @@
     },
     {
       "name": "Gert-Jan Segers",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -1201,12 +1201,12 @@
     },
     {
       "name": " Dekker",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Jimmy Dijk",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -1216,7 +1216,7 @@
     },
     {
       "name": "Marcelle Buitendam",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1231,7 +1231,7 @@
     },
     {
       "name": "John Leerdam",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -1271,7 +1271,7 @@
     },
     {
       "name": "Sultan Günal-Gezer",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1281,7 +1281,7 @@
     },
     {
       "name": "Andries Bouwman",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -1306,7 +1306,7 @@
     },
     {
       "name": "Antoinette Knoet",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1321,12 +1321,12 @@
     },
     {
       "name": "Kavish Bisseswar",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Lisa Stel",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -1336,7 +1336,7 @@
     },
     {
       "name": "Kirsten van den Hul",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1351,22 +1351,22 @@
     },
     {
       "name": " de Groot",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Cynthia Smeets",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": " Frentrop",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Bibi Dumon Tak",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -1376,7 +1376,7 @@
     },
     {
       "name": " Ephraim",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -1391,12 +1391,12 @@
     },
     {
       "name": "Suzanne Kröger",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Harry van der Maas",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -1416,7 +1416,7 @@
     },
     {
       "name": "Lilian Marijnissen",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -1426,7 +1426,7 @@
     },
     {
       "name": "Arthur van Dooren",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -1501,12 +1501,12 @@
     },
     {
       "name": " van Haga",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": " Smolders",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -1516,7 +1516,7 @@
     },
     {
       "name": "Lesley Arp",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -1541,7 +1541,7 @@
     },
     {
       "name": "Jan Smeets",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -1556,7 +1556,7 @@
     },
     {
       "name": "Henk Bulten",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -1566,7 +1566,7 @@
     },
     {
       "name": "Iris Vrolijks",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1581,7 +1581,7 @@
     },
     {
       "name": "Hilde Niezen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -1596,7 +1596,7 @@
     },
     {
       "name": "Barbara Stok",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -1611,7 +1611,7 @@
     },
     {
       "name": "Marco van der Wel",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -1626,7 +1626,7 @@
     },
     {
       "name": "Jan Kloosterman",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -1641,7 +1641,7 @@
     },
     {
       "name": "Xander den Uyl",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -1651,12 +1651,12 @@
     },
     {
       "name": "Bina Chirino",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
       "name": "Henk van der Wind",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -1676,7 +1676,7 @@
     },
     {
       "name": "Attje Kuiken",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1696,7 +1696,7 @@
     },
     {
       "name": "Ben Bloem",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -1716,7 +1716,7 @@
     },
     {
       "name": "Jasper Kuntzelaers",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -1751,17 +1751,17 @@
     },
     {
       "name": "Michiel Emmelkamp",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Patricia van der Kammen",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
       "name": "Luuk van der Veer",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -1781,7 +1781,7 @@
     },
     {
       "name": "Petra Molenaar",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -1816,7 +1816,7 @@
     },
     {
       "name": "Paul Smeulders",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -1826,7 +1826,7 @@
     },
     {
       "name": "Danai van Weerdenburg",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
@@ -1841,7 +1841,7 @@
     },
     {
       "name": "Willeke van Ooijen",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -1856,7 +1856,7 @@
     },
     {
       "name": "Laura Bromet",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -1866,7 +1866,7 @@
     },
     {
       "name": "Adam Ahajaj",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -1886,7 +1886,7 @@
     },
     {
       "name": "Sem Stroosnijder",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -1896,7 +1896,7 @@
     },
     {
       "name": "Mirjam Kollenstaart",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -1911,7 +1911,7 @@
     },
     {
       "name": "Kati Piri",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -1986,7 +1986,7 @@
     },
     {
       "name": "Julie d' Hondt",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -2001,7 +2001,7 @@
     },
     {
       "name": "Marieke Visser",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -2056,7 +2056,7 @@
     },
     {
       "name": "Elly van Wageningen",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -2071,7 +2071,7 @@
     },
     {
       "name": "Spencer Zeegers",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -2091,7 +2091,7 @@
     },
     {
       "name": "Martine Doppen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -2101,7 +2101,7 @@
     },
     {
       "name": "Jaap Hollebeek",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2171,7 +2171,7 @@
     },
     {
       "name": "Esther Kaper-Hartenberg",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -2186,7 +2186,7 @@
     },
     {
       "name": "Klaas Knooihuizen",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2196,7 +2196,7 @@
     },
     {
       "name": "Folkert Thiadens",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -2231,7 +2231,7 @@
     },
     {
       "name": "Frans Blok",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -2241,12 +2241,12 @@
     },
     {
       "name": " Jong",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": " Driessen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -2271,7 +2271,7 @@
     },
     {
       "name": "Khadija Arib",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -2296,22 +2296,22 @@
     },
     {
       "name": "Jesse Klaver",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Leonie Vestering",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Arda Gerkens",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Anne-Miep Vlasveld",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2321,12 +2321,12 @@
     },
     {
       "name": "Mirjam Bikker",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
       "name": "Alexander Kops",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -2346,7 +2346,7 @@
     },
     {
       "name": "Rita Weeda",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -2376,7 +2376,7 @@
     },
     {
       "name": "Miryanna Boom",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2386,7 +2386,7 @@
     },
     {
       "name": "Sjors Nagtegaal",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -2396,12 +2396,12 @@
     },
     {
       "name": "Noortje Thijssen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Willem de Jager",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -2411,7 +2411,7 @@
     },
     {
       "name": "Rick van de Waerdt",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -2421,12 +2421,12 @@
     },
     {
       "name": "Tony van Dijck",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Elmar Vlottes",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -2436,7 +2436,7 @@
     },
     {
       "name": "Anne-Marie Mineur",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -2451,7 +2451,7 @@
     },
     {
       "name": "Babette van Veen",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2471,7 +2471,7 @@
     },
     {
       "name": "Daniëlle de Winter",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
@@ -2501,7 +2501,7 @@
     },
     {
       "name": "Tiers Bakker",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -2521,7 +2521,7 @@
     },
     {
       "name": "Jeroen Postma",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -2531,7 +2531,7 @@
     },
     {
       "name": "Theo Schouten",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -2541,17 +2541,17 @@
     },
     {
       "name": "Senna Maatoug",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Glimina Chakor",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Bert Peterse",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -2606,12 +2606,12 @@
     },
     {
       "name": "Don Ceder",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Habtamu de Hoop",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -2626,7 +2626,7 @@
     },
     {
       "name": "Wim Kok",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -2651,7 +2651,7 @@
     },
     {
       "name": "Roy van Aalst",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -2666,7 +2666,7 @@
     },
     {
       "name": "Steven van Westreenen",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -2681,17 +2681,17 @@
     },
     {
       "name": "Lester van der Pluijm",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Carlijn Niesink",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
       "name": "Erik Flentge",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -2706,7 +2706,7 @@
     },
     {
       "name": "Lilianne Ploumen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -2721,7 +2721,7 @@
     },
     {
       "name": "Taylan Cicek",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -2761,7 +2761,7 @@
     },
     {
       "name": "Henri Swinkels",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -2776,12 +2776,12 @@
     },
     {
       "name": "Anoek Nuijens",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Simone Kennedy-Doornbos",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -2836,7 +2836,7 @@
     },
     {
       "name": "Janine Visser",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2846,7 +2846,7 @@
     },
     {
       "name": "Rosalie Bedijn",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -2861,7 +2861,7 @@
     },
     {
       "name": "Naphassa Parinussa",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2876,7 +2876,7 @@
     },
     {
       "name": "Laura Broekhuizen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -2906,7 +2906,7 @@
     },
     {
       "name": "Carla van Viegen",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2931,7 +2931,7 @@
     },
     {
       "name": "Roelof Bisschop",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -2956,7 +2956,7 @@
     },
     {
       "name": "Guus Kuijer",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -2996,7 +2996,7 @@
     },
     {
       "name": "Luuk Folkerts",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -3026,7 +3026,7 @@
     },
     {
       "name": "Els van Dijk",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -3056,7 +3056,7 @@
     },
     {
       "name": "Jurjen de Groot",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -3076,7 +3076,7 @@
     },
     {
       "name": " Velzing",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -3091,7 +3091,7 @@
     },
     {
       "name": "Marco Vermin",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -3136,12 +3136,12 @@
     },
     {
       "name": "Jakob Wedemeijer",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": " Jansen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -3151,7 +3151,7 @@
     },
     {
       "name": "Dirjanne van Drongelen",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -3166,7 +3166,7 @@
     },
     {
       "name": "Arnold Versteeg",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -3176,7 +3176,7 @@
     },
     {
       "name": "Wim Hoogervorst",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -3186,7 +3186,7 @@
     },
     {
       "name": "Raymond de Roon",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -3211,12 +3211,12 @@
     },
     {
       "name": "Jasper van Dijk",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": " van der Werf",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -3231,7 +3231,7 @@
     },
     {
       "name": "Falco van Hassel",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -3261,17 +3261,17 @@
     },
     {
       "name": "Jeltje van Nieuwenhoven",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Paul Verbruggen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Arnout Hoekstra",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -3281,12 +3281,12 @@
     },
     {
       "name": "Eefke Meijerink",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Frank Visser",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -3301,7 +3301,7 @@
     },
     {
       "name": "Annet Belt",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -3321,7 +3321,7 @@
     },
     {
       "name": "Lubbert van den Heuvel",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -3336,12 +3336,12 @@
     },
     {
       "name": "Mirthe Biemans",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Diederik van Dijk",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -3366,7 +3366,7 @@
     },
     {
       "name": "Reshma Roopram",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -3376,7 +3376,7 @@
     },
     {
       "name": "Barbara Oomen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -3401,22 +3401,22 @@
     },
     {
       "name": "Nienke Homan",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Murat Memiş",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Lilian Helder",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
       "name": "Jan Henk Verburg",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -3456,12 +3456,12 @@
     },
     {
       "name": "Houkje Rijpstra",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": " Mink",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -3516,7 +3516,7 @@
     },
     {
       "name": "Sietse Fritsma",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -3541,7 +3541,7 @@
     },
     {
       "name": "Hanne Drost",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -3561,12 +3561,12 @@
     },
     {
       "name": "Manon Fokke",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Laurens Ivens",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -3611,7 +3611,7 @@
     },
     {
       "name": "Peter de Vrij",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -3626,7 +3626,7 @@
     },
     {
       "name": "Bas Bijlsma",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -3636,7 +3636,7 @@
     },
     {
       "name": "Jaswina Elahi",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -3651,7 +3651,7 @@
     },
     {
       "name": "Anne Westerduin-de Jong",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -3661,7 +3661,7 @@
     },
     {
       "name": "Melody Deldjou Fard",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -3671,7 +3671,7 @@
     },
     {
       "name": "Marco Eestermans",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -3681,17 +3681,17 @@
     },
     {
       "name": "Erik Veltmeijer",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Hagar Roijackers",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Robert Bos",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -3711,12 +3711,12 @@
     },
     {
       "name": " Baudet",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Henk Willem van Dorp",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -3726,12 +3726,12 @@
     },
     {
       "name": "Drees Kroes",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Jaap Rozema",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -3746,7 +3746,7 @@
     },
     {
       "name": "Elvira Sweet",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -3756,7 +3756,7 @@
     },
     {
       "name": "Rien van der Velde",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -3766,12 +3766,12 @@
     },
     {
       "name": "Steven Lammering",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Joost Veldman",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -3826,7 +3826,7 @@
     },
     {
       "name": "Julian Bushoff",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -3836,12 +3836,12 @@
     },
     {
       "name": "Peter Kerris",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Henk Nijboer",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -3871,7 +3871,7 @@
     },
     {
       "name": "Vincent van den Born",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -3891,7 +3891,7 @@
     },
     {
       "name": "Daphne Steenbergen",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -3911,7 +3911,7 @@
     },
     {
       "name": "Arnoud Proos",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -3931,7 +3931,7 @@
     },
     {
       "name": " van Schijndel",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -3941,7 +3941,7 @@
     },
     {
       "name": "Joke de Kock",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -3956,7 +3956,7 @@
     },
     {
       "name": "Nicole Temmink",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -3976,7 +3976,7 @@
     },
     {
       "name": " van der Pol",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -3991,7 +3991,7 @@
     },
     {
       "name": "Rebekka Tselms",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -4001,17 +4001,17 @@
     },
     {
       "name": "Wim-Jan Renkema",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": " van Houwelingen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "April Ranshuijsen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -4021,12 +4021,12 @@
     },
     {
       "name": "Lambert Kisteman",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Johanna Koffeman-Kramer",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -4036,7 +4036,7 @@
     },
     {
       "name": "Leonie Gerritsen",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -4051,7 +4051,7 @@
     },
     {
       "name": "Eva Akerboom",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -4076,7 +4076,7 @@
     },
     {
       "name": "Alptekin Akdogan",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -4086,7 +4086,7 @@
     },
     {
       "name": "Lieke van Rossum",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -4096,7 +4096,7 @@
     },
     {
       "name": "Fatihya Abdi",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -4131,7 +4131,7 @@
     },
     {
       "name": "Peter Smitskam",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -4141,12 +4141,12 @@
     },
     {
       "name": "Sarah Dobbe",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Janny Roggen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -4191,7 +4191,7 @@
     },
     {
       "name": "Martijn Stoutjesdijk",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -4206,12 +4206,12 @@
     },
     {
       "name": "Richard Moti",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Jan Kuijers",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -4236,7 +4236,7 @@
     },
     {
       "name": " de Kok",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -4276,7 +4276,7 @@
     },
     {
       "name": "Songül Mutluer",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -4306,7 +4306,7 @@
     },
     {
       "name": "Nathalie Nede",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -4331,7 +4331,7 @@
     },
     {
       "name": "Ramon Vos",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -4391,7 +4391,7 @@
     },
     {
       "name": "Pepijn Zwanenberg",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -4416,7 +4416,7 @@
     },
     {
       "name": " Jeelof",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -4431,12 +4431,12 @@
     },
     {
       "name": "Joris Thijssen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Hayri Yildiz",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -4446,7 +4446,7 @@
     },
     {
       "name": "Henk Hensen",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -4461,7 +4461,7 @@
     },
     {
       "name": "Iris van de Kolk",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -4481,7 +4481,7 @@
     },
     {
       "name": " de Lange",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -4496,7 +4496,7 @@
     },
     {
       "name": "Inge Jongman-Mollema",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -4516,7 +4516,7 @@
     },
     {
       "name": "Abdelhaq Jermoumi",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -4541,7 +4541,7 @@
     },
     {
       "name": "Roos van Gelderen",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -4556,7 +4556,7 @@
     },
     {
       "name": "Colin Kok",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -4591,7 +4591,7 @@
     },
     {
       "name": "Sara Murawski",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -4601,7 +4601,7 @@
     },
     {
       "name": "Jerzy Soetekouw",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -4611,7 +4611,7 @@
     },
     {
       "name": " van der Knoop",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -4636,7 +4636,7 @@
     },
     {
       "name": "Henk de Vree",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -4676,7 +4676,7 @@
     },
     {
       "name": "Simion Blom",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -4716,7 +4716,7 @@
     },
     {
       "name": "Mensje van der Steen",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -4731,7 +4731,7 @@
     },
     {
       "name": " Bakir",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -4756,7 +4756,7 @@
     },
     {
       "name": "Marco Deen",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -4776,7 +4776,7 @@
     },
     {
       "name": "Toon van Dijk",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -4801,7 +4801,7 @@
     },
     {
       "name": "Niels van den Berge",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -4836,7 +4836,7 @@
     },
     {
       "name": "Stephanie Bennett",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -4851,12 +4851,12 @@
     },
     {
       "name": "Annelies Futselaar",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Arjen van Drunen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -4906,7 +4906,7 @@
     },
     {
       "name": "Wouter van den Berg",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -4926,7 +4926,7 @@
     },
     {
       "name": "Hidde Heutink",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -4936,12 +4936,12 @@
     },
     {
       "name": "Remi Poppe",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Sandra Beckerman",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -4951,7 +4951,7 @@
     },
     {
       "name": "Sophie Heesen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -4961,7 +4961,7 @@
     },
     {
       "name": "Wesley Pechler",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -4981,7 +4981,7 @@
     },
     {
       "name": "Eva van Esch",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -4991,7 +4991,7 @@
     },
     {
       "name": "Serpil Ateş",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5026,7 +5026,7 @@
     },
     {
       "name": "Mohammed Mohandis",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -5071,22 +5071,22 @@
     },
     {
       "name": "Bram van Ojik",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Chris Stoffer",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Johnas van Lammeren",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Corinne de Jonge van Ellemeet",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5096,7 +5096,7 @@
     },
     {
       "name": "Kees van der Staaij",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -5116,17 +5116,17 @@
     },
     {
       "name": "Lies van Aelst",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Sunita Biharie",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Raja Alouani",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5141,12 +5141,12 @@
     },
     {
       "name": " Mulder",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Gonnie Oosterbaan",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -5186,7 +5186,7 @@
     },
     {
       "name": "Robert Housmans",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -5201,17 +5201,17 @@
     },
     {
       "name": "Dennis de Jong",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Gidi Markuszower",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Stefan Brau",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -5231,12 +5231,12 @@
     },
     {
       "name": "Marianne Thieme",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": " Cornelissen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -5251,7 +5251,7 @@
     },
     {
       "name": " de Keijzer",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -5286,7 +5286,7 @@
     },
     {
       "name": "Barbara Kathmann",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -5311,7 +5311,7 @@
     },
     {
       "name": "Michel Verschuren",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5356,12 +5356,12 @@
     },
     {
       "name": "Peter Kwint",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Andrew Harijgens",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5376,12 +5376,12 @@
     },
     {
       "name": "Joeri Pool",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "David de Vreede",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5401,12 +5401,12 @@
     },
     {
       "name": "Cees Paas",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Caroline de Groot",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -5436,17 +5436,17 @@
     },
     {
       "name": "Mahir Alkaya",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Marco Oosterwijk",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Ufuk Kahya",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5461,7 +5461,7 @@
     },
     {
       "name": "Merle van Leusden-Brüning",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -5486,7 +5486,7 @@
     },
     {
       "name": "Dick Both",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -5496,17 +5496,17 @@
     },
     {
       "name": "Cynthia Pallandt",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Alexander Vervoort",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Thomas van Arnhem",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -5536,7 +5536,7 @@
     },
     {
       "name": "Sebastiaan van den Hout",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5551,12 +5551,12 @@
     },
     {
       "name": "Ines Kostić",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Harm Beertema",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -5586,7 +5586,7 @@
     },
     {
       "name": "Martin Bosma",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -5596,7 +5596,7 @@
     },
     {
       "name": "Imran Hyder",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5611,12 +5611,12 @@
     },
     {
       "name": "Ad Dorst",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Attiya Gamri",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -5631,7 +5631,7 @@
     },
     {
       "name": "Hans van Hooft",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5641,7 +5641,7 @@
     },
     {
       "name": "Laura Vissenberg",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5651,17 +5651,17 @@
     },
     {
       "name": "Paulus Jansen",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": " Dessing",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": " Hugenholtz",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -5676,7 +5676,7 @@
     },
     {
       "name": "Bart van Kent",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5686,7 +5686,7 @@
     },
     {
       "name": "Lian Veenstra",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -5701,7 +5701,7 @@
     },
     {
       "name": "Ronald van Raak",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5711,7 +5711,7 @@
     },
     {
       "name": "Hedy d' Ancona",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -5726,7 +5726,7 @@
     },
     {
       "name": " Boom",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -5751,7 +5751,7 @@
     },
     {
       "name": "Hendrik Wakker",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -5796,7 +5796,7 @@
     },
     {
       "name": "Robert Barker",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -5816,7 +5816,7 @@
     },
     {
       "name": "Dania Al-Obaidi",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -5826,12 +5826,12 @@
     },
     {
       "name": "Lisa Westerveld",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": " Rotmans",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -5841,17 +5841,17 @@
     },
     {
       "name": "Maarten Slingerland",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Ardjan Boersma",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Ruud Kuin",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5866,7 +5866,7 @@
     },
     {
       "name": "Lianne Raat",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -5886,7 +5886,7 @@
     },
     {
       "name": "Thera de Haan-de Jong",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -5901,7 +5901,7 @@
     },
     {
       "name": "Iván Beij",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -5926,7 +5926,7 @@
     },
     {
       "name": "Stieneke van der Graaf",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -5936,7 +5936,7 @@
     },
     {
       "name": "Dorrit de Jong",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -5946,12 +5946,12 @@
     },
     {
       "name": "Tara Scally",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Sebastian Kruis",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -5961,12 +5961,12 @@
     },
     {
       "name": "Heidi Lascaris-Bouhlel",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Bart van Bruggen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -5976,7 +5976,7 @@
     },
     {
       "name": "Marc Newsome",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -5991,7 +5991,7 @@
     },
     {
       "name": "Eric Smaling",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -6001,17 +6001,17 @@
     },
     {
       "name": "Marloes Piepers",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": " Dieudonné",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Wim van Duijn",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -6031,12 +6031,12 @@
     },
     {
       "name": "Siska Peeks",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": " Klazinga",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -6046,7 +6046,7 @@
     },
     {
       "name": "Marjolein Faber",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
@@ -6076,7 +6076,7 @@
     },
     {
       "name": "Marijke Heuvelink",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -6086,7 +6086,7 @@
     },
     {
       "name": "Lenna Vromans",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -6121,17 +6121,17 @@
     },
     {
       "name": "Bart Kuijer",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Christa Oosterbaan",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Johnny Lukasse",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -6161,7 +6161,7 @@
     },
     {
       "name": "Max Aardema",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -6176,7 +6176,7 @@
     },
     {
       "name": "Gom van Strien",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -6201,7 +6201,7 @@
     },
     {
       "name": "André Flach",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -6221,12 +6221,12 @@
     },
     {
       "name": "Carola Schouten",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
       "name": "Remine Alberts",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -6236,12 +6236,12 @@
     },
     {
       "name": "Stan Peters",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Anjo Travaille",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -6276,12 +6276,12 @@
     },
     {
       "name": "Suzanne Onderdelinden",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Tofik Dibi",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -6296,12 +6296,12 @@
     },
     {
       "name": "Nevin Özütok",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Gert van Leeuwen",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -6341,7 +6341,7 @@
     },
     {
       "name": "Gijs van Dijk",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -6356,12 +6356,12 @@
     },
     {
       "name": "Nicole Moinat",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
       "name": "Jordy Clemens",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -6371,12 +6371,12 @@
     },
     {
       "name": "Anthony Heeren",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Maryam Hassouni",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -6401,7 +6401,7 @@
     },
     {
       "name": "Mark Brakel",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -6431,17 +6431,17 @@
     },
     {
       "name": "Milka Yemane",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Tom van der Lee",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Maikel Boon",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -6456,7 +6456,7 @@
     },
     {
       "name": " Walravens",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -6466,7 +6466,7 @@
     },
     {
       "name": "Mathijs ten Broeke",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -6486,7 +6486,7 @@
     },
     {
       "name": " van Essen",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -6501,7 +6501,7 @@
     },
     {
       "name": "Inge Oosting",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -6516,7 +6516,7 @@
     },
     {
       "name": "Chris Jansen",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -6541,7 +6541,7 @@
     },
     {
       "name": "Eva Meijer",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -6551,7 +6551,7 @@
     },
     {
       "name": "Ewart Bosma",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -6576,7 +6576,7 @@
     },
     {
       "name": "Erik de Vries",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -6586,7 +6586,7 @@
     },
     {
       "name": "Marit Maij",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -6611,27 +6611,27 @@
     },
     {
       "name": "Rob van Muilekom",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Maarten Hijink",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Carolien Gehrels",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Hans Spekman",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Anne Janssen",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -6641,7 +6641,7 @@
     },
     {
       "name": "Francis van der Mooren",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -6656,7 +6656,7 @@
     },
     {
       "name": "Christine Teunissen",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -6671,7 +6671,7 @@
     },
     {
       "name": "Kirsten de Wrede",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -6686,7 +6686,7 @@
     },
     {
       "name": "Kees Verburg",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -6696,12 +6696,12 @@
     },
     {
       "name": "Amma Asante",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Leo de Groot",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -6736,7 +6736,7 @@
     },
     {
       "name": "Leoni Jansen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -6751,12 +6751,12 @@
     },
     {
       "name": "Hadassa Meijer-IJtsma",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
       "name": " Staartjes",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -6766,12 +6766,12 @@
     },
     {
       "name": "Yasin Torunoglu",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Mark Tuit",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -6796,22 +6796,22 @@
     },
     {
       "name": " van der Voort",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Harry van den Berg",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Fleur Agema",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
       "name": "Denise van Sluijs",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -6826,7 +6826,7 @@
     },
     {
       "name": "Yara Hümmels",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -6856,12 +6856,12 @@
     },
     {
       "name": "Sofyan Mbarki",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": "Nico Heijmans",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -6876,7 +6876,7 @@
     },
     {
       "name": "Kauthar Bouchallikh",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -6906,7 +6906,7 @@
     },
     {
       "name": " Jousma",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -6931,7 +6931,7 @@
     },
     {
       "name": "Gerdien Rots",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -6946,7 +6946,7 @@
     },
     {
       "name": "Coen Verheij",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -7031,12 +7031,12 @@
     },
     {
       "name": "Marieke van Duijn",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Marianne de Leeuw",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
@@ -7061,7 +7061,7 @@
     },
     {
       "name": " Osseweijer",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7086,7 +7086,7 @@
     },
     {
       "name": "Hans Tanis",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -7096,7 +7096,7 @@
     },
     {
       "name": " Bos",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7116,12 +7116,12 @@
     },
     {
       "name": "Sander Huisman",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Bea Mieris",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -7131,7 +7131,7 @@
     },
     {
       "name": "Anil Kumar",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -7161,7 +7161,7 @@
     },
     {
       "name": "Marjolijn Veenstra",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -7176,7 +7176,7 @@
     },
     {
       "name": "Matthijs van Neerbos",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7196,7 +7196,7 @@
     },
     {
       "name": "Dion Graus",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -7216,7 +7216,7 @@
     },
     {
       "name": "Anton Corbijn van Willenswaard",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
@@ -7236,17 +7236,17 @@
     },
     {
       "name": "Bert Tijhof",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Astrid Janssen",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Vicky Maeijer",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "V"
     },
     {
@@ -7291,7 +7291,7 @@
     },
     {
       "name": "Hermen Vreugdenhil",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -7301,12 +7301,12 @@
     },
     {
       "name": "Renske Leijten",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Thijs Klaassen",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -7321,7 +7321,7 @@
     },
     {
       "name": " Verbraak",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7331,7 +7331,7 @@
     },
     {
       "name": "Leendert de Knegt",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
@@ -7346,12 +7346,12 @@
     },
     {
       "name": "Mohamed Amessas",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Stella van Gent",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -7406,7 +7406,7 @@
     },
     {
       "name": "Samir Ahraui",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7416,7 +7416,7 @@
     },
     {
       "name": "Arend Palland",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -7446,7 +7446,7 @@
     },
     {
       "name": "Frank Futselaar",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
@@ -7476,17 +7476,17 @@
     },
     {
       "name": "Tom Bakker",
-      "party": "Staatkundig Gereformeerde Partij (SGP)",
+      "party": "SGP",
       "gender": "M"
     },
     {
       "name": "Sebastiaan Stöteler",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
       "name": "Romano Boshove",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -7496,7 +7496,7 @@
     },
     {
       "name": "Peter Zwiers",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7511,7 +7511,7 @@
     },
     {
       "name": "Bart Snels",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -7521,12 +7521,12 @@
     },
     {
       "name": "Hamit Karakus",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
       "name": " Vastenhouw",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7546,7 +7546,7 @@
     },
     {
       "name": "Abassin Nessar",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7606,7 +7606,7 @@
     },
     {
       "name": "Tjeerd van Dekken",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7631,7 +7631,7 @@
     },
     {
       "name": "Tirtsa Kamstra-van Dam",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "V"
     },
     {
@@ -7646,22 +7646,22 @@
     },
     {
       "name": "Angelique Schoonewille",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "V"
     },
     {
       "name": "Aya Selman",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
       "name": "Kim Schmitz",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": " Kuijer",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7686,17 +7686,17 @@
     },
     {
       "name": " van den Oetelaar",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
       "name": "Tobias Holtman",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
       "name": "Charlotte Brand",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "V"
     },
     {
@@ -7721,7 +7721,7 @@
     },
     {
       "name": " Talsma",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7746,12 +7746,12 @@
     },
     {
       "name": "Pascale Plusquin",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
       "name": "Geert Gabriëls",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -7761,7 +7761,7 @@
     },
     {
       "name": "Samir Toub",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
@@ -7781,12 +7781,12 @@
     },
     {
       "name": "Bram Roovers",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": " Kerseboom",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7816,7 +7816,7 @@
     },
     {
       "name": "Bé Schollema",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7836,7 +7836,7 @@
     },
     {
       "name": "Erik van Merrienboer",
-      "party": "Partij van de Arbeid (P.v.d.A.)",
+      "party": "PvdA",
       "gender": "M"
     },
     {
@@ -7856,12 +7856,12 @@
     },
     {
       "name": "Daniëlle Hirsch",
-      "party": "GROENLINKS",
+      "party": "GL",
       "gender": ""
     },
     {
       "name": "Daryl Pfoster",
-      "party": "PVV (Partij voor de Vrijheid)",
+      "party": "PVV",
       "gender": "M"
     },
     {
@@ -7871,7 +7871,7 @@
     },
     {
       "name": " Vermaas",
-      "party": "Forum voor Democratie",
+      "party": "FVD",
       "gender": ""
     },
     {
@@ -7881,7 +7881,7 @@
     },
     {
       "name": "Gert Jan Bent",
-      "party": "ChristenUnie",
+      "party": "CU",
       "gender": "M"
     },
     {
@@ -7891,12 +7891,12 @@
     },
     {
       "name": "Theo Coşkun",
-      "party": "SP (Socialistische Partij)",
+      "party": "SP",
       "gender": "M"
     },
     {
       "name": "Lammert van Raan",
-      "party": "Partij voor de Dieren",
+      "party": "PvdD",
       "gender": ""
     },
     {
